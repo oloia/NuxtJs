@@ -1,10 +1,10 @@
-# nuxt-course
+# nuxt-project
 
-> Nuxt.js course for Udemy
+> Nuxt.js project
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 
